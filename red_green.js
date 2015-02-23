@@ -17,4 +17,4 @@ function RedOrGreen(elementId){
     	myElement.style.backgroundColor= "green";
     };
 
-};
+}
